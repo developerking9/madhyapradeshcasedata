@@ -2,17 +2,17 @@
   "MadhyapradeshCaseReport": [
     {
       "id": 1,
-      "Name": "Madhya Pradesh (मध्य प्रदेश)",
-      "TotalCases": "1583792",
-      "TotalDeaths": "34968",
-      "TotalRecovered": "1020582",
-      "TotalCaseso": "1.58M",
-      "TotalDeathsw": "34.96K",
-      "TotalRecoveredr": "1.02M",
-      "TotalInc": "52.12K+",
-      "TotalDec": "775+",
-      "TotalRec": "32.55K+",
-      "Condition": "Need to improve"
+      "Namemd": "Madhya Pradesh (मध्य प्रदेश)",
+      "TotalCasesmd": "1583792",
+      "TotalDeathsmd": "34968",
+      "TotalRecoveredmd": "1020582",
+      "TotalCasesomd": "1.58M",
+      "TotalDeathswmd": "34.96K",
+      "TotalRecoveredrmd": "1.02M",
+      "TotalIncmd": "52.12K+",
+      "TotalDecmd": "775+",
+      "TotalRecmd": "32.55K+",
+      "Conditionmd": "Need to improve"
     }
   ]
 }
